@@ -1,0 +1,6 @@
+{
+  "name": "A-simple-snake-game-js",
+  "tagline": "",
+  "body": "### Welcome to My Simple Snake game written in VanillaJS\r\nYou are able to navigate a simple snake around the board and eat fruits that are randomly placed on the board. Be careful not to hit the sides or you will have to start over! If you have any updates feel free to fork down my repo and send me a pull request to checkout! \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
